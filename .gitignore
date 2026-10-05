@@ -1,2 +1,6 @@
-.eni
-_pycache__/
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml

@@ -23,9 +23,9 @@ source document → chunks → embeddings → retrieval → generation → app
 | `chunks.json` | Output of the chunking step |
 | `embed.py` | Creates embeddings for each chunk |
 | `embeddings.json` | Stored vectors for the chunks |
+| `requirements.txt` | Python dependencies |
 | `retrieve.py` | Finds the most relevant chunks for a question |
 | `generate.py` | Builds the prompt and gets the model's answer |
-| `list_models.py` | Lists the models available to your API key |
 | `app.py` | The app entry point |
 
 ## Getting started
@@ -33,25 +33,25 @@ source document → chunks → embeddings → retrieval → generation → app
 ### Prerequisites
 
 - Python 3.10 or newer
-- An API key for the model provider used in this project
+- A Groq API key
 
 ### Installation
 
 ```bash
 git clone https://github.com/ayanna230/All_about_me.git
 cd All_about_me
-python -m venv venv
-venv\Scripts\activate        # Windows
-# source venv/bin/activate   # macOS/Linux
+python -m venv .venv
+.venv\Scripts\activate       # Windows
+# source .venv/bin/activate  # macOS/Linux
 pip install -r requirements.txt
 ```
 
 ### Configuration
 
-Create a `.env` file in the project root and add your API key:
+Create a `.env` file in the project root and add your Groq API key:
 
 ```
-API_KEY=your_key_here
+GROQ_API_KEY=your_key_here
 ```
 
 Never commit this file. It is listed in `.gitignore`.
@@ -80,8 +80,8 @@ python app.py
 ## Tech stack
 
 - Python
-- Embeddings for semantic search
-- A large language model for answer generation
+- Sentence Transformers and NumPy for semantic search
+- Groq API for answer generation
 - Streamlit
 
 ## Roadmap

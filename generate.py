@@ -4,9 +4,9 @@ Step 4: generation -- the final piece of the RAG pipeline.
 Flow for each question:
 1. Retrieve the top-k most relevant chunks (reusing retrieve.py).
 2. Stuff those chunks into a prompt as "context".
-3. Send that prompt to Grok (xAI's LLM) and ask it to answer using ONLY
+3. Send that prompt to Groq's hosted language model and ask it to answer using ONLY
    that context.
-4. Print Grok's answer.
+4. Print the answer.
 
 The key idea that makes this "RAG" rather than just "chatbot with a system
 prompt": the LLM never sees your whole document. It only ever sees the
