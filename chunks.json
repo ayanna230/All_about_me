@@ -1,0 +1,282 @@
+[
+  {
+    "id": 0,
+    "breadcrumb": "1. Basics",
+    "chunk_type": "section",
+    "text": "[1. Basics]\n**Name:** Ayanna Chinyere Jack\n\n**Location:** Kingston, Jamaica\n\n**Current Roles:**\n\n- Co-founder of **WAV**, a Jamaica-based AI/technology consulting startup — her functional area is Product, ML & Communications.\n- **Marketing and Social Media Intern** at the Jamaica International Financial Services Authority (JIFSA).\n- Undergraduate student in **Applied Artificial Intelligence** at the University of Technology, Jamaica (UTech), School of Computing and Information Technology (SCIT) — now in her **4th year**.\n- No longer the official Applied AI programme representative at UTech, but still helps with representative and student union duties.\n- Owner/creator of **Ayanna Trinkets**, a crochet and handmade-trinkets side business.\n\n[**LinkedIn:**] (www.linkedin.com/in/ayanna-jack-b02929271)\n[**Gmail:**] (ayannachinyere@gmail.com)'\n**Contact number:** 876-254-7300",
+    "char_count": 881
+  },
+  {
+    "id": 1,
+    "breadcrumb": "2. Background > Education",
+    "chunk_type": "section",
+    "text": "[2. Background > Education]\nAyanna studies Applied Artificial Intelligence at UTech Jamaica, within SCIT, and was part of the **first batch of Applied AI students** in the programme. She is now in her **4th year**. Her coursework spans artificial intelligence, coding, mathematics, theoretical computing, operating systems, algorithms, data structures, computer architecture, AI/ML engineering, and MLOps.",
+    "char_count": 405
+  },
+  {
+    "id": 2,
+    "breadcrumb": "2. Background > University Leadership and Involvement",
+    "chunk_type": "section",
+    "text": "[2. Background > University Leadership and Involvement]\nAyanna previously served as the official **Applied AI Representative** at UTech. She is no longer in that official capacity but continues to help with representative and student union duties.\n\nHer representative and outreach activities have included:\n\n- Kingston & St. Andrew Library Career Day\n- Outreach at Harbour View Primary School\n- Jamaica National Business Expo\n- Glenmuir High School outreach\n- UTech programme outreach and display activities\n- Discussions involving Amber Group and Microsoft AI labs\n- Supporting internship-related communication and school liaison activities\n- Health & Safety subcommittee participation\n- SAPNA\n- CKI and UTech Community Center volunteering\n- Representing UTech at the **11th Biennial Jamaica Diaspora Conference**, Montego Bay Convention Centre — engaging with attendees and public officials on academic computing programs",
+    "char_count": 923
+  },
+  {
+    "id": 3,
+    "breadcrumb": "2. Background > Career Path",
+    "chunk_type": "section",
+    "text": "[2. Background > Career Path]\nAyanna is positioning herself professionally as an **AI/ML engineer**, and is building a portfolio of genuine, hands-on projects rather than overstated experience — a stance she's been explicit and consistent about.\n\nShe co-founded **WAV**, handling Product, ML & Communications, and works as the **Marketing and Social Media Intern** at **JIFSA** (her JIFSA work has involved content creation, social media management, event coverage, reporting, and building systems to organize marketing information). Her broader interests combine artificial intelligence, technology, entrepreneurship, automation, and communications.",
+    "char_count": 650
+  },
+  {
+    "id": 4,
+    "breadcrumb": "3. Skills > AI & Machine Learning",
+    "chunk_type": "section",
+    "text": "[3. Skills > AI & Machine Learning]\n- Applied Artificial Intelligence; AI-related project development\n- Built and deployed six live ML models for TransIQ: ETA prediction, fare prediction, traffic congestion, best departure time, route reliability, and safety scoring\n- Unsupervised learning: K-Means Clustering, Gaussian Mixture Models (GMM), Hierarchical Clustering\n- Data preprocessing; syntax parsing / parse trees\n- Ideation for practical AI applications (dashboards, assistants, chatbots, transportation-routing concepts) for organizations",
+    "char_count": 544
+  },
+  {
+    "id": 5,
+    "breadcrumb": "3. Skills > Programming & Development",
+    "chunk_type": "section",
+    "text": "[3. Skills > Programming & Development]\n- Python and C\n- Flask; REST API design and deployment (including public deployment via ngrok during a hackathon)\n- Backend API integration — connecting multiple APIs together and linking a frontend to services like Firebase\n- Libraries: scikit-learn, pandas, openpyxl, matplotlib\n- GitHub Copilot; general IDE use",
+    "char_count": 354
+  },
+  {
+    "id": 6,
+    "breadcrumb": "3. Skills > Automation & Workflow",
+    "chunk_type": "section",
+    "text": "[3. Skills > Automation & Workflow]\n- Built a **Google Forms → Google Sheets → Google Contacts → Mailchimp** pipeline to organize event/booth contacts\n- QR-code and Linktree-based workflows for events",
+    "char_count": 200
+  },
+  {
+    "id": 7,
+    "breadcrumb": "3. Skills > Social Media & Digital Marketing",
+    "chunk_type": "section",
+    "text": "[3. Skills > Social Media & Digital Marketing]\n- Content planning, scheduling, creation; event coverage; reporting; engagement tracking\n- Awareness and educational/engagement campaigns\n- Platform management: Instagram, Facebook, LinkedIn, X, TikTok, YouTube\n- Content calendars and content banks\n- Social media strategy, technical presentation, research methodology",
+    "char_count": 365
+  },
+  {
+    "id": 8,
+    "breadcrumb": "3. Skills > Tools & Platforms",
+    "chunk_type": "section",
+    "text": "[3. Skills > Tools & Platforms]\nCanva, Google Docs/Forms/Sheets/Contacts, Mailchimp, Linktree, Publer, Buffer, Google Stitch, Microsoft AI-related resources/labs",
+    "char_count": 161
+  },
+  {
+    "id": 9,
+    "breadcrumb": "3. Skills > Creative & Technical Design",
+    "chunk_type": "section",
+    "text": "[3. Skills > Creative & Technical Design]\nWeb banner design, HTML flyer development, promotional graphic concepts",
+    "char_count": 113
+  },
+  {
+    "id": 10,
+    "breadcrumb": "3. Skills > Communication",
+    "chunk_type": "section",
+    "text": "[3. Skills > Communication]\nProfessional emails, HR communications, reports, social captions, LinkedIn posts, event content, pitches. Prefers **clear, practical, beginner-friendly English** — not a Jamaican patois style.",
+    "char_count": 220
+  },
+  {
+    "id": 11,
+    "breadcrumb": "4. Interests / Hobbies > AI, Technology & Entrepreneurship",
+    "chunk_type": "section",
+    "text": "[4. Interests / Hobbies > AI, Technology & Entrepreneurship]\nStrong interest in AI, coding, automation, technology entrepreneurship, hackathons, and building practical AI solutions for Jamaican businesses and public services.",
+    "char_count": 225
+  },
+  {
+    "id": 12,
+    "breadcrumb": "4. Interests / Hobbies > Crochet & Handmade Crafts — Ayanna Trinkets",
+    "chunk_type": "section",
+    "text": "[4. Interests / Hobbies > Crochet & Handmade Crafts — Ayanna Trinkets]\nRuns Ayanna Trinkets, making crochet clothing, crochet bikinis (including a two-piece cotton crochet bikini she's promoted), durags, beanies, and anime-inspired crochet/tapestry work (e.g. a Gojo-themed piece). She's also worked on relaunching the business after a period of inactivity. She's engaged with the wider crochet/craft-pattern community — the backlash over AI-generated crochet patterns being sold online is what inspired one of her project ideas (see Projects).",
+    "char_count": 544
+  },
+  {
+    "id": 13,
+    "breadcrumb": "4. Interests / Hobbies > Fashion & Personal Style",
+    "chunk_type": "section",
+    "text": "[4. Interests / Hobbies > Fashion & Personal Style]\nAndrogynous, masculine-leaning style with old-money/preppy elements, adapted for Jamaican weather: sweaters, polos, cotton crop tops, earthy colours, street-formal combinations.",
+    "char_count": 229
+  },
+  {
+    "id": 14,
+    "breadcrumb": "4. Interests / Hobbies > Fitness",
+    "chunk_type": "section",
+    "text": "[4. Interests / Hobbies > Fitness]\n4-day/week strength training aimed at building muscle, plus regular swimming. Makes high-calorie protein shakes using regional ingredients like Lasco powder.",
+    "char_count": 192
+  },
+  {
+    "id": 15,
+    "breadcrumb": "4. Interests / Hobbies > Food",
+    "chunk_type": "section",
+    "text": "[4. Interests / Hobbies > Food]\nLikes: salads, basa fish in coconut milk with rice, shrimp and cheese omelettes, protein wraps. Dislikes: bananas, avocados, mangoes, fried plantains.",
+    "char_count": 182
+  },
+  {
+    "id": 16,
+    "breadcrumb": "4. Interests / Hobbies > Reading",
+    "chunk_type": "section",
+    "text": "[4. Interests / Hobbies > Reading]\nEnjoys reading; considering angling her book-recommendation portfolio project toward Caribbean and Jamaican literature.",
+    "char_count": 154
+  },
+  {
+    "id": 17,
+    "breadcrumb": "4. Interests / Hobbies > Content Creation",
+    "chunk_type": "section",
+    "text": "[4. Interests / Hobbies > Content Creation]\nEnjoys making social content, promotional graphics, short videos, educational posts, and brand/marketing materials.",
+    "char_count": 159
+  },
+  {
+    "id": 18,
+    "breadcrumb": "5. Projects > WAV (startup)",
+    "chunk_type": "section",
+    "text": "[5. Projects > WAV (startup)]\nCo-founded with **Jodel William** (AI Engineer) and **Victoria Pyrce** (Operations & Frontend); Ayanna's role is Product, ML & Communications. WAV operates under a \"Diagnose → Design → Deploy\" framework with a navy-and-gold brand palette. WAV's product set includes TransIQ, ExploreIQ (a tourism concept later merged into TransIQ as one integrated tourism/transportation platform), a Medical Triage App / CariHealth Connect, and ONDEMAND.\n\n**Note:** Ayanna previously said TransIQ was the only WAV product she'd worked on hands-on, for resume purposes. She has since clarified she also did backend work on OnDemand — connecting APIs and linking the frontend to services like Firebase (see below) — so this may be worth revisiting if the resume is meant to reflect all hands-on work.",
+    "char_count": 812
+  },
+  {
+    "id": 19,
+    "breadcrumb": "5. Projects > TransIQ (flagship project)",
+    "chunk_type": "section",
+    "text": "[5. Projects > TransIQ (flagship project)]\nA Jamaican public-transport intelligence app. Ayanna served as **ML Engineer for Team TransIQ at the Intellibus Hackathon 2026** in Kingston (a 24-hour hackathon). She built and deployed the TransIQ **ML API** (Python/Flask) with six live models covering ETA prediction, fare prediction, traffic congestion, best departure time, route reliability, and safety scoring, exposing endpoints (health check, single-route prediction, multi-plan route generation, transport hub listing) publicly via ngrok during the event.\n\nUsers enter a start location, destination, budget, and travel time; the app returns three optimized route plans — **Fastest, Cheapest, Balanced** — across route taxis, JUTC buses, Knutsford Express, JUTA, and Uber, island-wide. Ayanna finished her piece ahead of the rest of the team and spent the remaining hackathon time helping teammates with theirs.",
+    "char_count": 913
+  },
+  {
+    "id": 20,
+    "breadcrumb": "5. Projects > OnDemand",
+    "chunk_type": "section",
+    "text": "[5. Projects > OnDemand]\nA service-marketplace concept connecting customers with freelance and blue-collar service providers (customer/provider logins, provider-set pricing, a simulated Stripe-style payment flow for demos). Ayanna worked on the **backend** — connecting different APIs together and linking the frontend to services like Firebase. (An earlier source also described UI/interface concept work via Google Stitch.)",
+    "char_count": 425
+  },
+  {
+    "id": 21,
+    "breadcrumb": "5. Projects > AddUChat",
+    "chunk_type": "section",
+    "text": "[5. Projects > AddUChat]\nA resume project — a rule-based (not ML-backed) chatbot designed to help students resolve admissions questions without needing to speak to a person.",
+    "char_count": 173
+  },
+  {
+    "id": 22,
+    "breadcrumb": "5. Projects > Ayanna Trinkets (business)",
+    "chunk_type": "section",
+    "text": "[5. Projects > Ayanna Trinkets (business)]\nCrochet/handmade-trinkets side business — see Interests section for product details. She's worked on marketing and relaunching it.",
+    "char_count": 173
+  },
+  {
+    "id": 23,
+    "breadcrumb": "5. Projects > JIFSA Social Media & Content System",
+    "chunk_type": "section",
+    "text": "[5. Projects > JIFSA Social Media & Content System]\nBuilt a structured content system: scheduled posts, monthly reporting, awareness posts, a \"Tip of the Week\" series, a \"The More You Know\" Q&A engagement format, video ideas, staff questionnaire concepts, and content banks built in Canva/Google Docs. Also created systems for event contacts, scheduling, QR codes, and Linktree.",
+    "char_count": 378
+  },
+  {
+    "id": 24,
+    "breadcrumb": "5. Projects > Academic / Coursework Projects",
+    "chunk_type": "section",
+    "text": "[5. Projects > Academic / Coursework Projects]\n- **ChatGPT & Academic Integrity Research Study** — qualitative research on how university students use ChatGPT for assignments, learning workflows, and critical thinking\n- **Arithmetic Syntax Checker** — built in C and Python, including parse-tree implementation\n- **Student Wellness Clustering Analysis** — K-Means/GMM/Hierarchical clustering on student wellness data to design targeted support interventions\n- **Cybersecurity Awareness Campaign Assets** — script ideas, poster concepts, visual messaging on data encryption/protection for Cybersecurity Awareness Month\n- **Racers Summer Camp Marketing Assets** — HTML invitation flyers and branding for a luncheon/award ceremony\n- **Government Agency Marketing Consultancy Proposal** — drafted a social strategy, consultancy proposal, and work plan",
+    "char_count": 847
+  },
+  {
+    "id": 25,
+    "breadcrumb": "5. Projects > Event & Outreach Projects",
+    "chunk_type": "section",
+    "text": "[5. Projects > Event & Outreach Projects]\nCaribbean Investment Forum, UTech MSME Linkage Day, MSME Business Roadshow (Westmoreland), Jamaica National Business Expo, UTech Programme Display Day, 11th Diaspora Conference (Montego Bay), and various school/library/community outreach events.",
+    "char_count": 287
+  },
+  {
+    "id": 26,
+    "breadcrumb": "5. Projects > Planned / Portfolio Pipeline",
+    "chunk_type": "section",
+    "text": "[5. Projects > Planned / Portfolio Pipeline]\n- **Book recommendation system** (first confirmed portfolio project) — hybrid content-based + collaborative filtering on the Goodbooks-10k dataset, Streamlit front end, with an option to focus on Caribbean/Jamaican literature\n- **AI-generated image detector** for crochet/craft patterns — binary real-vs-AI classifier using CNN transfer learning on the CIFAKE dataset, inspired by backlash over AI-generated crochet patterns sold online\n- **Cross-platform doomscroll blocker** — using Apple's DeviceActivity framework (iOS) and Android's UsageStatsManager\n- **Social media content approval & scheduling workflow** — tied to her JIFSA work; planned as a no-code v1 (Airtable/Notion + Make/Zapier) before a coded rebuild",
+    "char_count": 763
+  },
+  {
+    "id": 27,
+    "breadcrumb": "6. Goals",
+    "chunk_type": "section",
+    "text": "[6. Goals]\n- Build a career combining AI, coding, automation, technology consulting, entrepreneurship, product development, project management, and business applications of AI; interested in learning more about **technical project management**.\n- Position herself as an AI/ML engineer through real, hands-on work rather than claimed experience.\n- Ship the book recommendation system as her first completed portfolio project.\n- For WAV: land clients, complete more technology projects, grow the team, participate in hackathons and fundraising, and turn AI concepts into practical business solutions.\n- Build useful technology for Jamaican users/organizations — transportation, business services, automation, AI-assisted decision-making, organizational efficiency.\n- Complete her Applied AI degree (now in 4th year) and pursue further coursework in AI and robotics.\n- Build muscle mass through structured training and nutrition.",
+    "char_count": 926
+  },
+  {
+    "id": 28,
+    "breadcrumb": "7. Fun Facts",
+    "chunk_type": "section",
+    "text": "[7. Fun Facts]\n- Turned internet backlash over AI-generated crochet patterns into a project idea — an AI-image detector to protect real crafters.\n- Finished her hackathon contribution to TransIQ ahead of the rest of the team and spent the remaining time helping with everyone else's pieces.\n- Has refused to pad her resume — when offered multiple WAV projects to list, she kept only TransIQ, the one she actually built hands-on.\n- Balances a technical, AI-focused side with a creative, handmade-crafts side (Ayanna Trinkets).\n- Was part of the first-ever batch of Applied AI students at UTech.\n- Has represented UTech at national and international events, including the 11th Diaspora Conference in Montego Bay.\n- Builds custom high-calorie protein shakes using ingredients like Lasco powder.",
+    "char_count": 791
+  },
+  {
+    "id": 29,
+    "breadcrumb": "8. FAQ > Q&A",
+    "chunk_type": "faq_pair",
+    "text": "[8. FAQ > Q&A]\n**Q: Who is Ayanna Jack?**\nA: I'm a 4th-year Applied Artificial Intelligence student at UTech Jamaica, co-founder of the AI/tech consulting startup WAV, and I'm the Marketing and Social Media Intern at JIFSA. I also run a small crochet business called Ayanna Trinkets.",
+    "char_count": 283
+  },
+  {
+    "id": 30,
+    "breadcrumb": "8. FAQ > Q&A",
+    "chunk_type": "faq_pair",
+    "text": "[8. FAQ > Q&A]\n**Q: What do you study?**\nA: Applied Artificial Intelligence at the University of Technology, Jamaica — I'm in my 4th year now, and was part of the first batch of students in the programme.",
+    "char_count": 204
+  },
+  {
+    "id": 31,
+    "breadcrumb": "8. FAQ > Q&A",
+    "chunk_type": "faq_pair",
+    "text": "[8. FAQ > Q&A]\n**Q: What's WAV?**\nA: WAV is a Jamaica-based AI and technology consulting startup I co-founded with Jodel William (our AI Engineer) and Victoria Pyrce (Operations & Frontend). I handle Product, ML & Communications. We work under a \"Diagnose → Design → Deploy\" framework.",
+    "char_count": 285
+  },
+  {
+    "id": 32,
+    "breadcrumb": "8. FAQ > Q&A",
+    "chunk_type": "faq_pair",
+    "text": "[8. FAQ > Q&A]\n**Q: What's the project you're proudest of?**\nA: TransIQ. At the Intellibus Hackathon 2026 in Kingston, I was the ML Engineer for the team — I built and deployed the ML API behind it, with six models covering ETA, fare, traffic congestion, best departure time, route reliability, and safety scoring. TransIQ takes your start point, destination, budget, and travel time, and gives you three optimized route plans — fastest, cheapest, and balanced — across route taxis, JUTC, Knutsford Express, JUTA, and Uber.",
+    "char_count": 523
+  },
+  {
+    "id": 33,
+    "breadcrumb": "8. FAQ > Q&A",
+    "chunk_type": "faq_pair",
+    "text": "[8. FAQ > Q&A]\n**Q: What are you working on next?**\nA: A book recommendation system — a hybrid content-based and collaborative filtering model on the Goodbooks-10k dataset with a Streamlit front end. I'm considering focusing it on Caribbean and Jamaican literature.",
+    "char_count": 265
+  },
+  {
+    "id": 34,
+    "breadcrumb": "8. FAQ > Q&A",
+    "chunk_type": "faq_pair",
+    "text": "[8. FAQ > Q&A]\n**Q: What other project ideas are you sitting on?**\nA: A detector for AI-generated images, aimed at crochet and craft patterns, using transfer learning on the CIFAKE dataset. A cross-platform doomscroll blocker built on Apple's DeviceActivity framework and Android's UsageStatsManager. And a content approval and scheduling workflow for social media, which comes out of my JIFSA work.",
+    "char_count": 399
+  },
+  {
+    "id": 35,
+    "breadcrumb": "8. FAQ > Q&A",
+    "chunk_type": "faq_pair",
+    "text": "[8. FAQ > Q&A]\n**Q: Why the crochet-detector idea?**\nA: There was real outrage online about AI-generated crochet patterns being sold to people. If I can build a tool that tells you whether a pattern or photo was AI-generated, that protects the people actually making things.",
+    "char_count": 274
+  },
+  {
+    "id": 36,
+    "breadcrumb": "8. FAQ > Q&A",
+    "chunk_type": "faq_pair",
+    "text": "[8. FAQ > Q&A]\n**Q: How do you approach your resume?**\nA: I don't list things I didn't actually do. WAV has several products, but I only list TransIQ, because that's the one I built hands-on. I'd rather have a shorter, honest resume than a padded one.",
+    "char_count": 251
+  },
+  {
+    "id": 37,
+    "breadcrumb": "8. FAQ > Q&A",
+    "chunk_type": "faq_pair",
+    "text": "[8. FAQ > Q&A]\n**Q: Are you still the Applied AI programme rep?**\nA: Not officially anymore, but I still help out with representative and student union duties.",
+    "char_count": 159
+  },
+  {
+    "id": 38,
+    "breadcrumb": "8. FAQ > Q&A",
+    "chunk_type": "faq_pair",
+    "text": "[8. FAQ > Q&A]\n**Q: What are your hobbies outside of tech?**\nA: Crochet and handmade crafts through Ayanna Trinkets, fashion, strength training and swimming, and reading — I'm even considering weaving Caribbean literature into one of my projects.",
+    "char_count": 246
+  },
+  {
+    "id": 39,
+    "breadcrumb": "8. FAQ > Q&A",
+    "chunk_type": "faq_pair",
+    "text": "[8. FAQ > Q&A]\n**Q: How can someone find you?**\nA: On LinkedIn at linkedin.com/in/ayanna-jack-b02929271.",
+    "char_count": 104
+  }
+]
